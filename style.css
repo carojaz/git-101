@@ -6,7 +6,10 @@
 #logo {
 	height: 80px;
 	width: 80px;
+}
 
+.h {
+	font-weight: 100;
 }
 
 #container {
